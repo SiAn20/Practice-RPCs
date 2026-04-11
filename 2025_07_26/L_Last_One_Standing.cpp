@@ -1,3 +1,7 @@
+/*
+  author: SiAn01 / SidnyTech
+  Name: Sidney A. Sahonero Garrado
+*/
 #include <bits/stdc++.h>
 #define ll long long
 #define endl '\n'
@@ -48,3 +52,9 @@ int main() {
   }
   return 0;
 }
+
+/*
+     /\_/\
+    ( o.o )
+     > ^ <
+*/

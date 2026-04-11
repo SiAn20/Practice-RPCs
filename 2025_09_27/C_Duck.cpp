@@ -1,6 +1,6 @@
 /*
-  author: SiAn20
-  Name: Sidney Angelly Sahonero Garrado
+  author: SiAn01 / SidnyTech
+  Name: Sidney A. Sahonero Garrado
 */
 #include <bits/stdc++.h>
 using namespace std;

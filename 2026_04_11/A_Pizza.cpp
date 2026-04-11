@@ -1,5 +1,5 @@
 /*
-  author: SidnyTech
+  author: SiAn01 / SidnyTech
   Name: Sidney A. Sahonero Garrado
 */
 #include <bits/stdc++.h>
